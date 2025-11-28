@@ -1,6 +1,6 @@
-## My Custom boot-menu Themes
+## Boot-Menu Themes
 
-|                                 |
-| :-----------------------------: |
-| ![Theme 1](./assets/theme1.png) |
-|           **Theme 1**           |
+|                                  |
+| :------------------------------: |
+| ![Theme 1](./assets/samurai.png) |
+|           **Samurai**            |
