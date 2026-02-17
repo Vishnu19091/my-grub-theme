@@ -1,6 +1,7 @@
 # SCRIPT TO UPDATE GRUB THEME
 
-sudo python3 ./grub_theme_change.py
+SCRIPT_DIR=$(dirname -- "$(readlink -f -- "$0")")
+sudo python3 $SCRIPT_DIR/grub_theme_change.py
 
 echo -e "Theme changed in the configuration file"
 
